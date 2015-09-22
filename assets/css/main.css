@@ -2268,13 +2268,13 @@
 /* Content */
 
 	#content {
-		position: relative;
+		position: absolute;
 		background-color: #fff;
 		background-image: url("images/bg02.png");
 	}
 
 		#content > .inner {
-			position: relative;
+			position: absolute;
 			z-index: 1;
 		}
 
