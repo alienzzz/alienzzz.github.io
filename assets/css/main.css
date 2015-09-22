@@ -59,8 +59,7 @@
 /* Containers */
 
 	.container {
-		margin-left: left;
-		margin-right: auto;
+		float: left;
 	}
 
 	.container.\31 25\25 {
