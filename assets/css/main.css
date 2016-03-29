@@ -1725,7 +1725,7 @@
    position:absolute;
   left:400px;
   top: 8px;
-  bottom:100px;
+
 }
 
 	section, article {
@@ -1735,7 +1735,7 @@
 		section > :last-child,
 		section > .inner > :last-child, section:last-child, article > :last-child,
 		article > .inner > :last-child, article:last-child {
-			margin-bottom: 0;
+			margin-bottom: 50;
 		}
 
 /* Image */
