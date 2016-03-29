@@ -1721,6 +1721,11 @@
 			margin-top: 1em;
 			color: #999;
 		}
+		#centermarquee{
+   position:absolute;
+  left:400px;
+  top: 8px;
+}
 
 	section, article {
 		margin-bottom: 3em;
