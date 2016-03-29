@@ -1735,7 +1735,7 @@
 		section > :last-child,
 		section > .inner > :last-child, section:last-child, article > :last-child,
 		article > .inner > :last-child, article:last-child {
-			margin-bottom: 50;
+			margin-bottom: 0;
 		}
 
 /* Image */
